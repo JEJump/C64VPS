@@ -1,3 +1,5 @@
+11/15/24 - v1.7 discovered to be unstable in scale editor.  Version has been removed.  v1.8 should have issues resolved.
+
 Volume Pedal 6581 SID Synthesizer
 
 For Commodore 64
